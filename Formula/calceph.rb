@@ -3,7 +3,7 @@ class Calceph < Formula
   homepage "https://www.imcce.fr/inpop/calceph"
   url "https://www.imcce.fr/content/medias/recherche/equipes/asd/calceph/calceph-3.4.6.tar.gz"
   sha256 "fc2c0d899c32ddee2d484159c6fda5ae1ee7d8beae517029b776e5250b5fda27"
-  license "GPL-2.0-or-later"
+  license "CECILL-2.1"
 
   bottle do
     cellar :any
